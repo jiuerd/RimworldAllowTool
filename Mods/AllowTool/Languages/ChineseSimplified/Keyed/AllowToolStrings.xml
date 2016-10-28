@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Allow_area_success>已設置允許 {0} 個物品。</Allow_area_success>
+	<Allow_area_success>已设置允许 {0} 个物品。</Allow_area_success>
 	<Allow_area_failure>没有找到被禁止的物品。</Allow_area_failure>
 
 	<Forbid_area_success>已设置禁止 {0} 个物品。</Forbid_area_success>
